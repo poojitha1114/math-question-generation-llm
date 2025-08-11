@@ -33,17 +33,6 @@ The final deliverable includes:
   - Images placed alongside each question.  
   - Consistent fonts, spacing, and style.  
 
----
-
-## 📂 Repository Structure  
-math-question-generation-llm/
-├── Math_Question_Generation_Compressed.docx # Final Word file
-├── README.md # This README
-├── prompts.txt # LLM prompts used
-└── images/
-├── q1_combination_table.png # Question 1 image
-├── q2_cylinder_volume.png # Question 2 image
----
 
 ## 📈 Skills Demonstrated  
 - 🎯 **LLM Prompt Engineering** – Crafting precise prompts for targeted outputs.  
