@@ -1,0 +1,20 @@
+### Prompt 1 – LLM Question Generation
+You are given the following two Math questions (Refer Base questions). Your goal is to create similar questions using LLM.
+Things to consider:
+1. A question can have equations and formulas in LaTeX format, and it should be preserved.
+2. A question can have images and we need to create appropriate image in the new question.
+Generate 2 new math questions keeping difficulty level and format similar.
+
+### Prompt 2 – Image Description Refinement
+For each of the two questions you generated, provide:
+1. A clear, detailed image description that can be used in an AI image generation tool (like DALL·E, Midjourney, or similar).
+2. Ensure diagrams are consistent with the question data and look like professional exam visuals.
+3. Avoid unnecessary decoration — no colorful icons unless relevant to math.
+4. Specify exact labels, dimensions, and layout for the diagram.
+
+### Prompt 3 – Image Generation
+**Question 1 Image Prompt:**
+A clean, black-and-white exam-style table showing three columns: 'Main Dishes', 'Side Dishes', 'Desserts'. Main Dishes column lists: Dish A, Dish B, Dish C, Dish D. Side Dishes column lists: Side 1, Side 2, Side 3. Desserts column lists: Dessert X, Dessert Y. All text in a neat sans-serif font, table with clear straight black lines. No icons, colors, or illustrations — plain academic style. Include question text and options on the left, table on the right.
+
+**Question 2 Image Prompt:**
+A black-and-white textbook-style side view of a cylinder with height labeled '12 cm', radius labeled '5 cm', and a shaded portion showing 80% fill. The water level is marked at 9.6 cm from the bottom. Use thin solid lines for visible edges, dashed lines for hidden edges, and light gray shading for the water. Designed to be placed beside multiple choice options in an exam.
